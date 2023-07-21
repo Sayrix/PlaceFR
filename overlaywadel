@@ -1,0 +1,15 @@
+{
+  "contact": "",
+  "templates": [
+    {
+      "name": "Wadel",
+      "sources": [
+        "https://i.imgur.com/ipOTICZ.png"
+      ],
+      "x": 1241,
+      "y": 844
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
