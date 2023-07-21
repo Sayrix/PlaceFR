@@ -1,0 +1,31 @@
+{
+  "contact": "",
+  "templates": [
+    {
+      "name": "Drapeau de Gauche",
+      "sources": [
+        "https://i.imgur.com/Ff0oYqJ.png"
+      ],
+      "x": 0,
+      "y": 130
+    },
+    {
+      "name": "Drapeau de droite",
+      "sources": [
+        "https://i.imgur.com/1phSUE0.png"
+      ],
+      "x": 1387,
+      "y": 130
+    },
+    {
+      "name": "Surprise 2",
+      "sources": [
+        "https://i.imgur.com/RKR7dxq.png"
+      ],
+      "x": 140,
+      "y": 795
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
