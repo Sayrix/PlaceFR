@@ -1,1 +1,1 @@
-# Repo de l'overlay de la communauté de /r/PlaceFR
+# Repository officiel de l'overlay de /r/PlaceFR
