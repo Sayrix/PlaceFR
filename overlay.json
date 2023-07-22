@@ -10,19 +10,11 @@
       "y": 130
     },
     {
-      "name": "Ancien Drapeau de Gauche",
+      "name": "Double Drapeau",
       "sources": [
-        "https://i.imgur.com/562xSZv.png"
+        "https://i.imgur.com/dg1IKX7.png"
       ],
       "x": 500,
-      "y": 130
-    },
-    {
-      "name": "Drapeau de droite",
-      "sources": [
-        "https://i.imgur.com/M7hoHaX.png"
-      ],
-      "x": 1887,
       "y": 130
     }
   ],
