@@ -6,23 +6,7 @@
       "sources": [
         "https://i.imgur.com/5e69jFT.png"
       ],
-      "x": 0,
-      "y": 130
-    },
-    {
-      "name": "Drapeau de millieu",
-      "sources": [
-        "https://i.imgur.com/BwDmTEQ.png"
-      ],
       "x": 500,
-      "y": 130
-    },
-    {
-      "name": "Drapeau de droite",
-      "sources": [
-        "https://i.imgur.com/u89DhbU.png"
-      ],
-      "x": 1887,
       "y": 130
     }
   ],
