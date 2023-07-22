@@ -4,25 +4,9 @@
     {
       "name": "Drapeau de Gauche",
       "sources": [
-        "https://i.imgur.com/qfhaB5b.png"
+        "https://i.imgur.com/PS8etqw.png"
       ],
       "x": 0,
-      "y": 130
-    },
-    {
-      "name": "Drapeau de millieu",
-      "sources": [
-        "https://i.imgur.com/BwDmTEQ.png"
-      ],
-      "x": 500,
-      "y": 130
-    },
-    {
-      "name": "Drapeau de droite",
-      "sources": [
-        "https://i.imgur.com/7a87lVe.png"
-      ],
-      "x": 1887,
       "y": 130
     }
   ],
