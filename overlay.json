@@ -8,6 +8,14 @@
       ],
       "x": 500,
       "y": 630
+    },
+    {
+      "name": "Dessins animés FR",
+      "sources": [
+        "https://i.imgur.com/QgfoXy1.png"
+      ],
+      "x": 1865,
+      "y": 300
     }
   ],
   "whitelist": [],
