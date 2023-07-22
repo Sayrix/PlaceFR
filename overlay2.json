@@ -1,0 +1,23 @@
+{
+  "contact": "",
+  "templates": [
+    {
+      "name": "Drapeau de Gauche",
+      "sources": [
+        "https://i.imgur.com/IYwCC4H.png"
+      ],
+      "x": 0,
+      "y": 130
+    },
+    {
+      "name": "Double Drapeau",
+      "sources": [
+        "https://i.imgur.com/joJgXDq.png"
+      ],
+      "x": 500,
+      "y": 130
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
