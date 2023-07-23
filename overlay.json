@@ -2,6 +2,14 @@
   "contact": "",
   "templates": [
     {
+      "name": "Fall Guys Kaiden",
+      "sources": [
+        "https://i.imgur.com/qdFnYwa.png"
+      ],
+      "x": 1647,
+      "y": 1414
+    },
+    {
       "name": "VLC",
       "sources": [
         "https://i.imgur.com/2olVDTG.png"
@@ -49,14 +57,6 @@
       ],
       "x": 1933,
       "y": 209
-    },
-    {
-      "name": "Fall Guys Kaiden",
-      "sources": [
-        "https://i.imgur.com/qdFnYwa.png"
-      ],
-      "x": 1647,
-      "y": 1414
     }
   ],
   "whitelist": [],
