@@ -1,14 +1,6 @@
 {
   "contact": "",
   "templates": [
-     {
-      "name": "One Piece",
-      "sources": [
-        "https://i.imgur.com/9lqEpz8.png"
-      ],
-      "x": 0,
-      "y": 1327
-    },
     {
       "name": "Fall Guys Kaiden",
       "sources": [
