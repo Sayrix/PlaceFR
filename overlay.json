@@ -2,6 +2,14 @@
   "contact": "",
   "templates": [
     {
+      "name": "Projet Deudeuche",
+      "sources": [
+        "https://i.imgur.com/0NRCR4p.png"
+      ],
+      "x": 526,
+      "y": 1423
+    },
+    {
       "name": "One Piece FR",
       "sources": [
         "https://cdn.discordapp.com/attachments/960160140449939496/1132709014753525850/onepiece.png"
