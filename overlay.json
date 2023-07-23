@@ -2,6 +2,14 @@
   "contact": "",
   "templates": [
     {
+      "name": "GP Explorer",
+      "sources": [
+        "https://i.imgur.com/BvMsESC.png"
+      ],
+      "x": 530,
+      "y": 1012
+    },
+    {
       "name": "Projet Deudeuche",
       "sources": [
         "https://i.imgur.com/0NRCR4p.png"
