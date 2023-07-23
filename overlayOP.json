@@ -1,0 +1,15 @@
+{
+  "contact": "",
+  "templates": [
+    {
+      "name": "One Piece",
+      "sources": [
+        "https://i.imgur.com/3LONopc.png"
+      ],
+      "x": 0,
+      "y": 1087
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
