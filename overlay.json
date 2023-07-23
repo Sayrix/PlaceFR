@@ -24,6 +24,15 @@
       ],
       "x": 1856,
       "y": 204
+    },
+    {
+      "name": "KB9",
+      "sources": [
+        "https://i.imgur.com/7CisoMi.png",
+        ""
+      ],
+      "x": 1933,
+      "y": 214
     }
   ],
   "whitelist": [],
