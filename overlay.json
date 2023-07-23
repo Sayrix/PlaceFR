@@ -33,6 +33,14 @@
       ],
       "x": 1933,
       "y": 209
+    },
+    {
+      "name": "VLC",
+      "sources": [
+        "https://i.imgur.com/2olVDTG.png"
+      ],
+      "x": 1883,
+      "y": 953
     }
   ],
   "whitelist": [],
