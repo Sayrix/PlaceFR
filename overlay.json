@@ -10,6 +10,14 @@
       "y": 953
     },
     {
+      "name": "FR drapeau droite",
+      "sources": [
+        "https://i.imgur.com/zkcu9Ak.png"
+      ],
+      "x": 1868,
+      "y": 645
+    },
+    {
       "name": "Drapeau de Gauche",
       "sources": [
         "https://i.imgur.com/pZHyFdf.png"
