@@ -2,6 +2,14 @@
   "contact": "",
   "templates": [
     {
+      "name": "One Piece FR",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/960160140449939496/1132709014753525850/onepiece.png"
+      ],
+      "x": 0,
+      "y": 1087
+    },
+    {
       "name": "Fall Guys Kaiden",
       "sources": [
         "https://i.imgur.com/qdFnYwa.png"
