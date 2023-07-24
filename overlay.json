@@ -1,6 +1,14 @@
 {
   "contact": "",
   "templates": [
+        {
+      "name": "De Gaulle",
+      "sources": [
+        "https://g1.quest/pixelwar/de-gaulle-1.png"
+      ],
+      "x": 2113,
+      "y": 226
+    },
     {
       "name": "Commu",
       "sources": [
