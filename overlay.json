@@ -1,6 +1,14 @@
 {
     "contact": "",
     "templates": [
+            {
+      "name": "Arctic",
+      "sources": [
+        "https://i.imgur.com/sTzdG1l.png"
+      ],
+      "x": 2499,
+      "y": 1082
+    },
         {
       "name": "FCK NZS",
       "sources": [
