@@ -34,11 +34,13 @@
       "y": 263
     },
     {
-      "name": "coluche + coeur",
-      "sources": ["https://i.imgur.com/luJwl0Y.png"],
-      "x": 2172,
-      "y": 231
-    },
+      "name": "Restos",
+      "sources": [
+        "https://i.imgur.com/VhemVWY.png"
+      ],
+      "x": 2162,
+      "y": 234
+    }
     {
       "name": "charlotte genshin tout kawaiine",
       "sources": [
