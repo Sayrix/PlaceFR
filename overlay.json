@@ -80,6 +80,23 @@
       ],
       "x": 1850,
       "y": 300
+    },
+        {
+      "name": "Kyks",
+      "sources": [
+        "https://i.imgur.com/1KnRkBq.png"
+      ],
+      "x": 1856,
+      "y": 204
+    },
+    {
+      "name": "KB9",
+      "sources": [
+        "https://i.imgur.com/7CisoMi.png",
+        ""
+      ],
+      "x": 1933,
+      "y": 209
     }
   ],
   "whitelist": [],
