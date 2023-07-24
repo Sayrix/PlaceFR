@@ -42,9 +42,11 @@
       "y": 263
     },
     {
-      "name": "coluche + coeur",
-      "sources": ["https://i.imgur.com/lH6BBux.png"],
-      "x": 2172,
+      "name": "Restos",
+      "sources": [
+        "https://i.imgur.com/EnFuYeO.png"
+      ],
+      "x": 2164,
       "y": 231
     },
     {
