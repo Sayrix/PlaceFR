@@ -138,12 +138,12 @@
             "y": 953
         },
         {
-            "name": "FR drapeau droite",
+            "name": "fr drapeau droite",
             "sources": [
-                "https://i.imgur.com/Zq4Py8N.png"
+                "https://i.imgur.com/dowtquj.png"
             ],
             "x": 2386,
-            "y": 645
+            "y": 631
         },
         {
             "name": "Drapeau de Gauche",
