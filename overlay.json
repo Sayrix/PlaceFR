@@ -2,6 +2,14 @@
     "contact": "",
     "templates": [
         {
+            "name": "Extention gauche de fou genre",
+            "sources": [
+                "https://i.imgur.com/dLhYbtv.png"
+            ],
+            "x": 317,
+            "y": 1088
+        },
+        {
             "name": "GP Explorer",
             "sources": [
                 "https://i.imgur.com/BvMsESC.png"
