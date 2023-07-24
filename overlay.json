@@ -34,12 +34,10 @@
       "y": 263
     },
     {
-      "name": "Coluche",
-      "sources": [
-        "https://i.imgur.com/II17tsy.png"
-      ],
+      "name": "coluche + coeur",
+      "sources": ["https://i.imgur.com/luJwl0Y.png"],
       "x": 2172,
-      "y": 259
+      "y": 231
     },
     {
       "name": "charlotte genshin tout kawaiine",
@@ -128,12 +126,6 @@
       "sources": ["https://i.imgur.com/7CisoMi.png", ""],
       "x": 2433,
       "y": 209
-    },
-    {
-      "name": "Fond drapeau droite tribute",
-      "sources": ["https://i.imgur.com/LtLu7cV.png"],
-      "x": 2099,
-      "y": 203
     }
   ],
   "whitelist": [],
