@@ -2,6 +2,14 @@
   "contact": "",
   "templates": [
     {
+      "name": "don't nod",
+      "sources": [
+        "https://i.imgur.com/mC46LTg.png"
+      ],
+      "x": 2388,
+      "y": 934
+    },
+    {
       "name": "CERN",
       "sources": [
         "https://i.imgur.com/YokBqTO.png"
@@ -34,12 +42,10 @@
       "y": 263
     },
     {
-      "name": "Restos",
-      "sources": [
-        "https://i.imgur.com/VhemVWY.png"
-      ],
-      "x": 2162,
-      "y": 234
+      "name": "coluche + coeur",
+      "sources": ["https://i.imgur.com/luJwl0Y.png"],
+      "x": 2172,
+      "y": 231
     },
     {
       "name": "charlotte genshin tout kawaiine",
