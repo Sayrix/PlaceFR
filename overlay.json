@@ -3,18 +3,18 @@
     "templates": [
         {
             "name": "FFF",
-          "sources": [
-        "https://i.imgur.com/awEbgUu.png"
+            "sources": [
+                "https://i.imgur.com/awEbgUu.png"
           ],
           "x": 396,
           "y": 1169
         },
-{
-      "name": "le foot",
-      "sources": ["https://i.imgur.com/TUz14mn.png"],
-      "x": 2350,
-      "y": 130
-    },
+        {
+          "name": "le foot",
+          "sources": ["https://i.imgur.com/TUz14mn.png"],
+          "x": 2350,
+          "y": 130
+        },
         {
             "name": "fuck spez",
             "sources": [
