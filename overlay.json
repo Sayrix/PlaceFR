@@ -2,6 +2,14 @@
     "contact": "",
     "templates": [
         {
+      "name": "FCK NZS",
+      "sources": [
+        "https://i.imgur.com/HVDemzw.png"
+      ],
+      "x": 1104,
+      "y": 1006
+        },
+        {
             "name": "FFF",
             "sources": [
                 "https://i.imgur.com/awEbgUu.png"
