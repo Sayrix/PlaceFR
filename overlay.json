@@ -2,6 +2,12 @@
   "contact": "",
   "templates": [
     {
+      "name": "fuck spez",
+      "sources": ["https://i.imgur.com/80T0p9z.png"],
+      "x": 2472,
+      "y": 769
+    },
+    {
       "name": "twitch",
       "sources": ["https://i.imgur.com/t888eRb.png"],
       "x": 380,
