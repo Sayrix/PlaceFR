@@ -3,57 +3,43 @@
   "templates": [
     {
       "name": "don't nod",
-      "sources": [
-        "https://i.imgur.com/mC46LTg.png"
-      ],
+      "sources": ["https://i.imgur.com/mC46LTg.png"],
       "x": 2388,
       "y": 934
     },
     {
       "name": "CERN",
-      "sources": [
-        "https://i.imgur.com/YokBqTO.png"
-      ],
+      "sources": ["https://i.imgur.com/YokBqTO.png"],
       "x": 982,
       "y": 1867
     },
     {
       "name": "Coeur bataclan",
-      "sources": [
-        "https://i.imgur.com/99rwmRW.png"
-      ],
+      "sources": ["https://i.imgur.com/99rwmRW.png"],
       "x": 2282,
       "y": 214
     },
     {
       "name": "Bougie",
-      "sources": [
-        "https://i.imgur.com/22prz0O.png"
-      ],
+      "sources": ["https://i.imgur.com/22prz0O.png"],
       "x": 2292,
       "y": 208
     },
     {
       "name": "Bataclan text",
-      "sources": [
-        "https://i.imgur.com/sVJg4UU.png"
-      ],
+      "sources": ["https://i.imgur.com/sVJg4UU.png"],
       "x": 2266,
       "y": 263
     },
     {
       "name": "Restos",
-      "sources": [
-        "https://i.imgur.com/Qu51fqc.png"
-      ],
+      "sources": ["https://i.imgur.com/Qu51fqc.png"],
       "x": 2164,
       "y": 231
     },
     {
       "name": "charlotte genshin tout kawaiine",
-      "sources": [
-        "https://i.imgur.com/podC278.png"
-      ],
+      "sources": ["https://i.imgur.com/podC278.png"],
       "x": 1141,
       "y": 1669
     },
@@ -77,9 +63,7 @@
     },
     {
       "name": "One Piece FR",
-      "sources": [
-        "https://i.imgur.com/Ki2A6ln.png"
-      ],
+      "sources": ["https://i.imgur.com/Ki2A6ln.png"],
       "x": 500,
       "y": 1087
     },
@@ -103,7 +87,7 @@
     },
     {
       "name": "FR drapeau droite",
-      "sources": ["https://i.imgur.com/O4pybwy.png"],
+      "sources": ["https://i.imgur.com/Zq4Py8N.png"],
       "x": 2386,
       "y": 645
     },
