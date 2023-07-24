@@ -2,7 +2,13 @@
   "contact": "",
   "templates": [
     {
-      "name": "don't nod",
+      "name": "twitch",
+      "sources": ["https://i.imgur.com/t888eRb.png"],
+      "x": 380,
+      "y": 1087
+    },
+    {
+      "name": "dont nod",
       "sources": ["https://i.imgur.com/mC46LTg.png"],
       "x": 2388,
       "y": 934
