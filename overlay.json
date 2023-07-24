@@ -2,6 +2,14 @@
     "contact": "",
     "templates": [
         {
+            "name": "FFF",
+          "sources": [
+        "https://i.imgur.com/awEbgUu.png"
+          ],
+          "x": 396,
+          "y": 1169
+        },
+        {
           "name": "le foot",
           "sources": [
             "https://i.imgur.com/TG9snPO.png"
