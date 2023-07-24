@@ -2,6 +2,14 @@
   "contact": "",
   "templates": [
     {
+      "name": "Bougie",
+      "sources": [
+        "https://i.imgur.com/22prz0O.png"
+      ],
+      "x": 2292,
+      "y": 208
+    },
+    {
       "name": "Coluche",
       "sources": [
         "https://i.imgur.com/II17tsy.png"
@@ -38,7 +46,7 @@
     {
       "name": "One Piece FR",
       "sources": [
-        "https://cdn.discordapp.com/attachments/960160140449939496/1132709014753525850/onepiece.png"
+        "https://i.imgur.com/Ki2A6ln.png"
       ],
       "x": 500,
       "y": 1087
