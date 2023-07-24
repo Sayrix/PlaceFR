@@ -2,6 +2,14 @@
   "contact": "",
   "templates": [
     {
+      "name": "Commu",
+      "sources": [
+        "https://i.imgur.com/FkDR1zA.png"
+      ],
+      "x": 1041,
+      "y": 1182
+    },
+    {
       "name": "Arctic",
       "sources": ["https://i.imgur.com/sTzdG1l.png"],
       "x": 1117,
