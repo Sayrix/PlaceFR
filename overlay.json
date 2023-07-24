@@ -9,14 +9,12 @@
           "x": 396,
           "y": 1169
         },
-        {
-          "name": "le foot",
-          "sources": [
-            "https://i.imgur.com/TG9snPO.png"
-          ],
-          "x": 2350,
-          "y": 138
-        },
+{
+      "name": "le foot",
+      "sources": ["https://i.imgur.com/TUz14mn.png"],
+      "x": 2350,
+      "y": 130
+    },
         {
             "name": "fuck spez",
             "sources": [
