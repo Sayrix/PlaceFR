@@ -8,6 +8,12 @@
       "y": 226
     },
     {
+        "name": "Doctor Who FR",
+        "sources": ["https://raw.githubusercontent.com/asl97/Template-Editor/main/placeFR_Alliance.png"],
+        "x": 1073,
+        "y": 1311
+    },
+    {
       "name": "Commu",
       "sources": ["https://i.imgur.com/FkDR1zA.png"],
       "x": 1041,
@@ -135,7 +141,7 @@
     },
     {
       "name": "Drapeau de Gauche",
-      "sources": ["https://i.imgur.com/HczK6eD.png "],
+      "sources": ["https://i.imgur.com/R29MyFu.png "],
       "x": 944,
       "y": 631
     },
