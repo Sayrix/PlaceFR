@@ -1,6 +1,14 @@
 {
   "contact": "",
   "templates": [
+     {
+      "name": "Inkling",
+      "sources": [
+        "https://i.imgur.com/dvTQ3dc.png"
+      ],
+      "x": 2470,
+      "y": 806
+    },
     {
       "name": "De Gaulle",
       "sources": ["https://g1.quest/pixelwar/de-gaulle-1.png"],
