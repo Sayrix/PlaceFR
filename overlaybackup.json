@@ -1,1 +1,183 @@
-
+{
+  "contact": "",
+  "templates": [
+     {
+      "name": "Inkling",
+      "sources": [
+        "https://i.imgur.com/dvTQ3dc.png"
+      ],
+      "x": 2470,
+      "y": 806
+    },
+    {
+      "name": "De Gaulle",
+      "sources": ["https://g1.quest/pixelwar/de-gaulle-1.png"],
+      "x": 2113,
+      "y": 226
+    },
+    {
+        "name": "Doctor Who FR",
+        "sources": ["https://raw.githubusercontent.com/asl97/Template-Editor/main/placeFR_Alliance.png"],
+        "x": 1073,
+        "y": 1311
+    },
+    {
+      "name": "Commu",
+      "sources": ["https://i.imgur.com/FkDR1zA.png"],
+      "x": 1041,
+      "y": 1182
+    },
+    {
+      "name": "Arctic",
+      "sources": ["https://i.imgur.com/sTzdG1l.png"],
+      "x": 1117,
+      "y": 1483
+    },
+    {
+      "name": "FCK NZS",
+      "sources": ["https://i.imgur.com/HVDemzw.png"],
+      "x": 1104,
+      "y": 1006
+    },
+    {
+      "name": "FFF",
+      "sources": ["https://i.imgur.com/awEbgUu.png"],
+      "x": 396,
+      "y": 1169
+    },
+    {
+      "name": "le foot",
+      "sources": ["https://i.imgur.com/RGJDlgh.png"],
+      "x": 2350,
+      "y": 138
+    },
+    {
+      "name": "fuck spez",
+      "sources": ["https://i.imgur.com/zzyHOTZ.png"],
+      "x": 2472,
+      "y": 769
+    },
+    {
+      "name": "twitch",
+      "sources": ["https://i.imgur.com/t888eRb.png"],
+      "x": 380,
+      "y": 1087
+    },
+    {
+      "name": "dont nod",
+      "sources": ["https://i.imgur.com/mC46LTg.png"],
+      "x": 2388,
+      "y": 934
+    },
+    {
+      "name": "CERN",
+      "sources": ["https://i.imgur.com/YokBqTO.png"],
+      "x": 982,
+      "y": 1867
+    },
+    {
+      "name": "Coeur bataclan",
+      "sources": ["https://i.imgur.com/99rwmRW.png"],
+      "x": 2282,
+      "y": 214
+    },
+    {
+      "name": "Bougie",
+      "sources": ["https://i.imgur.com/22prz0O.png"],
+      "x": 2292,
+      "y": 208
+    },
+    {
+      "name": "Bataclan text",
+      "sources": ["https://i.imgur.com/sVJg4UU.png"],
+      "x": 2266,
+      "y": 263
+    },
+    {
+      "name": "Restos",
+      "sources": ["https://i.imgur.com/Qu51fqc.png"],
+      "x": 2164,
+      "y": 231
+    },
+    {
+      "name": "charlotte genshin tout kawaiine",
+      "sources": ["https://i.imgur.com/podC278.png"],
+      "x": 1141,
+      "y": 1669
+    },
+    {
+      "name": "GP Explorer",
+      "sources": ["https://i.imgur.com/cPAD6cs.png"],
+      "x": 1030,
+      "y": 1012
+    },
+    {
+      "name": "Projet Deudeuche",
+      "sources": ["https://i.imgur.com/FYvOuzb.png"],
+      "x": 1026,
+      "y": 1423
+    },
+    {
+      "name": "One Piece FR",
+      "sources": ["https://i.imgur.com/Ki2A6ln.png"],
+      "x": 500,
+      "y": 1087
+    },
+    {
+      "name": "Fall Guys Kaiden",
+      "sources": ["https://i.imgur.com/qdFnYwa.png"],
+      "x": 2149,
+      "y": 1414
+    },
+    {
+      "name": "Peugeot 205 / Renault Twingo",
+      "sources": ["https://i.imgur.com/fxSwtHm.png"],
+      "x": 1879,
+      "y": 325
+    },
+    {
+      "name": "VLC",
+      "sources": ["https://i.imgur.com/2olVDTG.png"],
+      "x": 2383,
+      "y": 953
+    },
+    {
+      "name": "droite",
+      "sources": ["https://i.imgur.com/LoZo1sM.png"],
+      "x": 2290,
+      "y": 631
+    },
+    {
+      "name": "Drapeau de Gauche",
+      "sources": ["https://i.imgur.com/RY4Bt7s.png"],
+      "x": 944,
+      "y": 631
+    },
+    {
+      "name": "ESTEBANZIATAO",
+      "sources": ["https://i.imgur.com/3GG6Yy9.png"],
+      "x": 2450,
+      "y": 277
+    },
+    {
+      "name": "Dessins animés FR",
+      "sources": ["https://i.imgur.com/Lnw3EVE.png"],
+      "x": 2350,
+      "y": 300
+    },
+    {
+      "name": "Kyks",
+      "sources": ["https://i.imgur.com/1KnRkBq.png"],
+      "x": 2356,
+      "y": 204
+    },
+    {
+      "name": "KB9",
+      "sources": ["https://i.imgur.com/7CisoMi.png", ""],
+      "x": 2433,
+      "y": 209
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
