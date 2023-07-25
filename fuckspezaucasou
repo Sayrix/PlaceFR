@@ -1,0 +1,13 @@
+{
+  "contact": "",
+  "templates": [
+    {
+      "name": "Fuck Spez",
+      "sources": ["https://i.imgur.com/1SV9T9B.png"],
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
