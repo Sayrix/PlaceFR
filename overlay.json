@@ -2,12 +2,12 @@
   "contact": "",
   "templates": [
     {
-      "name": "FSpez",
+      "name": "https://i.imgur.com/EHCKgXF.png",
       "sources": [
-        "https://i.imgur.com/zrpOR7I.png"
+        "https://i.imgur.com/EHCKgXF.png"
       ],
-      "x": 0,
-      "y": 0
+      "x": 43,
+      "y": 6
     }
   ],
   "whitelist": [],
