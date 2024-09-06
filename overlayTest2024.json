@@ -1,0 +1,16 @@
+{
+  "faction": "Linkinito",
+  "contact": "Linkinito",
+  "templates": [
+    {
+      "name": "Astro Bot",
+      "sources": [
+        "https://i.imgur.com/VgdrOIT.png"
+      ],
+      "x": 19,
+      "y": 94
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
